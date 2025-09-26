@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![KioskAsir Logo](uploads/logo_1756859441.jpeg)
+![KioskAsir Logo](https://kioskasir.com/Logo_KK.png)
 
 **Modern Point of Sale System with AI-Powered Business Intelligence**
 
